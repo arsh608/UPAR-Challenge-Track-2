@@ -1,0 +1,25 @@
+{
+  "cache": "/content/drive/MyDrive/UPAR/work/cache",
+  "train_splits": [
+    "train",
+    "val"
+  ],
+  "val_split": null,
+  "queries": "../data/annotations/task2/val/queries.csv",
+  "arch": "ViT-B-16",
+  "clip_weights": "/content/drive/MyDrive/UPAR/work/weights/clip_ViT-B-16.pt",
+  "epochs": 10,
+  "bs": 128,
+  "lr": 6e-05,
+  "head_lr": 0.001,
+  "layer_decay": 0.75,
+  "wd": 0.05,
+  "warmup": 0.5,
+  "ema": 0.9995,
+  "loss": "bce",
+  "grad_ckpt": false,
+  "workers": 2,
+  "max_steps": 0,
+  "seed": 0,
+  "out": "/content/drive/MyDrive/UPAR/work/runs/final"
+}

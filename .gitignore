@@ -1,0 +1,27 @@
+# model weights, caches and submission zips (too large for GitHub)
+*.pt
+*.pth
+*.zip
+cache/
+weights/
+submissions/
+runs/**/*.npy
+!runs/dev/val_probs.npy
+
+# downloaded datasets (fetched by download_datasets.py)
+UPAR-Challenge-2027-main/data/Market1501/
+UPAR-Challenge-2027-main/data/PA100k/
+UPAR-Challenge-2027-main/data/PETA/
+UPAR-Challenge-2027-main/data/*.zip
+
+# duplicate of solution/colab_train.ipynb
+/UPAR_Track2_Colab.ipynb
+
+# Office lock files and Python / OS clutter
+~$*
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+desktop.ini

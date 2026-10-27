@@ -1,0 +1,202 @@
+[
+ {
+  "attribute": "LowerBody-Color-Other",
+  "balanced_accuracy": 0.601603627204895,
+  "positive_rate": 0.037237703800201416
+ },
+ {
+  "attribute": "Accessory-Glasses-Sun",
+  "balanced_accuracy": 0.6151608228683472,
+  "positive_rate": 0.021761905401945114
+ },
+ {
+  "attribute": "LowerBody-Color-Orange",
+  "balanced_accuracy": 0.6784814596176147,
+  "positive_rate": 0.002095369156450033
+ },
+ {
+  "attribute": "LowerBody-Color-Green",
+  "balanced_accuracy": 0.6860123872756958,
+  "positive_rate": 0.01496692281216383
+ },
+ {
+  "attribute": "Hair-Length-Bald",
+  "balanced_accuracy": 0.6973368525505066,
+  "positive_rate": 0.01260214950889349
+ },
+ {
+  "attribute": "Age-Young",
+  "balanced_accuracy": 0.7027449607849121,
+  "positive_rate": 0.011015655472874641
+ },
+ {
+  "attribute": "UpperBody-Color-Other",
+  "balanced_accuracy": 0.71135413646698,
+  "positive_rate": 0.07531356066465378
+ },
+ {
+  "attribute": "LowerBody-Color-Yellow",
+  "balanced_accuracy": 0.7216401100158691,
+  "positive_rate": 0.001676295418292284
+ },
+ {
+  "attribute": "LowerBody-Color-Purple",
+  "balanced_accuracy": 0.7499400973320007,
+  "positive_rate": 0.0007782800239510834
+ },
+ {
+  "attribute": "Accessory-Glasses-Normal",
+  "balanced_accuracy": 0.7729891538619995,
+  "positive_rate": 0.13937199115753174
+ },
+ {
+  "attribute": "LowerBody-Color-Grey",
+  "balanced_accuracy": 0.7970417737960815,
+  "positive_rate": 0.17194001376628876
+ },
+ {
+  "attribute": "LowerBody-Color-Blue",
+  "balanced_accuracy": 0.810086190700531,
+  "positive_rate": 0.17879486083984375
+ },
+ {
+  "attribute": "Age-Adult",
+  "balanced_accuracy": 0.812467098236084,
+  "positive_rate": 0.9649773836135864
+ },
+ {
+  "attribute": "UpperBody-Color-Grey",
+  "balanced_accuracy": 0.8153982162475586,
+  "positive_rate": 0.16209177672863007
+ },
+ {
+  "attribute": "UpperBody-Color-Pink",
+  "balanced_accuracy": 0.818924605846405,
+  "positive_rate": 0.01050677988678217
+ },
+ {
+  "attribute": "Accessory-Bag",
+  "balanced_accuracy": 0.8235334753990173,
+  "positive_rate": 0.293142169713974
+ },
+ {
+  "attribute": "LowerBody-Color-Pink",
+  "balanced_accuracy": 0.8252288103103638,
+  "positive_rate": 0.015475798398256302
+ },
+ {
+  "attribute": "UpperBody-Color-Blue",
+  "balanced_accuracy": 0.8275972604751587,
+  "positive_rate": 0.08213847130537033
+ },
+ {
+  "attribute": "UpperBody-Color-Orange",
+  "balanced_accuracy": 0.8399502635002136,
+  "positive_rate": 0.005807165987789631
+ },
+ {
+  "attribute": "LowerBody-Color-White",
+  "balanced_accuracy": 0.8414161205291748,
+  "positive_rate": 0.04469123110175133
+ },
+ {
+  "attribute": "LowerBody-Color-Brown",
+  "balanced_accuracy": 0.850062370300293,
+  "positive_rate": 0.04481096938252449
+ },
+ {
+  "attribute": "Accessory-Hat",
+  "balanced_accuracy": 0.8581231832504272,
+  "positive_rate": 0.04247612878680229
+ },
+ {
+  "attribute": "UpperBody-Color-Purple",
+  "balanced_accuracy": 0.8651393055915833,
+  "positive_rate": 0.025324033573269844
+ },
+ {
+  "attribute": "Age-Old",
+  "balanced_accuracy": 0.8676623702049255,
+  "positive_rate": 0.023677673190832138
+ },
+ {
+  "attribute": "UpperBody-Color-Green",
+  "balanced_accuracy": 0.8801352977752686,
+  "positive_rate": 0.043463945388793945
+ },
+ {
+  "attribute": "UpperBody-Color-Brown",
+  "balanced_accuracy": 0.8815919160842896,
+  "positive_rate": 0.01987607404589653
+ },
+ {
+  "attribute": "LowerBody-Color-Red",
+  "balanced_accuracy": 0.8834283947944641,
+  "positive_rate": 0.003891400061547756
+ },
+ {
+  "attribute": "Accessory-Backpack",
+  "balanced_accuracy": 0.8889288902282715,
+  "positive_rate": 0.2085491120815277
+ },
+ {
+  "attribute": "LowerBody-Type-Skirt&Dress",
+  "balanced_accuracy": 0.8961557149887085,
+  "positive_rate": 0.09578830748796463
+ },
+ {
+  "attribute": "LowerBody-Color-Black",
+  "balanced_accuracy": 0.8982391357421875,
+  "positive_rate": 0.4877420961856842
+ },
+ {
+  "attribute": "LowerBody-Type-Trousers&Shorts",
+  "balanced_accuracy": 0.9108189344406128,
+  "positive_rate": 0.9038225412368774
+ },
+ {
+  "attribute": "Hair-Length-Short",
+  "balanced_accuracy": 0.9182792901992798,
+  "positive_rate": 0.6545933485031128
+ },
+ {
+  "attribute": "UpperBody-Color-White",
+  "balanced_accuracy": 0.9184694290161133,
+  "positive_rate": 0.22501271963119507
+ },
+ {
+  "attribute": "Hair-Length-Long",
+  "balanced_accuracy": 0.9225059747695923,
+  "positive_rate": 0.3114018142223358
+ },
+ {
+  "attribute": "UpperBody-Color-Red",
+  "balanced_accuracy": 0.9241331815719604,
+  "positive_rate": 0.0694165900349617
+ },
+ {
+  "attribute": "UpperBody-Color-Yellow",
+  "balanced_accuracy": 0.9321632385253906,
+  "positive_rate": 0.049720119684934616
+ },
+ {
+  "attribute": "UpperBody-Color-Black",
+  "balanced_accuracy": 0.9327310919761658,
+  "positive_rate": 0.2556350529193878
+ },
+ {
+  "attribute": "UpperBody-Length-Short",
+  "balanced_accuracy": 0.9528021812438965,
+  "positive_rate": 0.6287604570388794
+ },
+ {
+  "attribute": "Gender-Female",
+  "balanced_accuracy": 0.9568469524383545,
+  "positive_rate": 0.42916154861450195
+ },
+ {
+  "attribute": "LowerBody-Length-Short",
+  "balanced_accuracy": 0.958105742931366,
+  "positive_rate": 0.37507107853889465
+ }
+]
